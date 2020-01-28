@@ -14,9 +14,13 @@ open terminal and type `$ brew install python3`
 If brew is not installed, install it in [brew official site](http://brew.sh/)
 
 #### 2) Install python packages
+
 type in terminal `$ curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py`
+
 then type `$ python get-pip.py`
+
 then navigate into the folder containing this repository using `cd` commands
+
 then type `$ pip install -r requirements.txt`
 
 ## Activate virtual environment
