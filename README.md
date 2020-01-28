@@ -36,7 +36,7 @@ A virtualenv is required before a database could be created
 #### Mac OS / Linux
 `$ source mypython/bin/activate`
 #### Windows
-`$ mypthon\Scripts\activate`
+`$ mypython\Scripts\activate`
 
 ## Run the python code that automatically creates a database called `database.db`
 
