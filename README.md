@@ -10,6 +10,7 @@ Open the `terminal` and follow the steps
 
 #### 1) Install `python`
 open terminal and type `$ brew install python3`
+
 If brew is not installed, install it in [brew official site](http://brew.sh/)
 
 #### 2) Install python packages
@@ -45,5 +46,5 @@ A virtualenv is required before a database could be created
 
 `sqlite3 database.db`
 
-## Now you may apply and practice your sql knowledge at well in this database!
+## Now you may apply and practice your sql knowledge at will in this database!
 
